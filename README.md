@@ -8,7 +8,9 @@ modules we would need. https://www.anaconda.com/
 Step 2: Go through the documentation and make sure that you are familiar with setting up environments in Conda
 
 Step 3: Install scrapy 
+
                 pip install scrapy
+                
 Step 4: Clone this repository 
 
 Step 5: CD into the cloned directory
